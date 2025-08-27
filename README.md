@@ -4,29 +4,25 @@
 
 # Equipe
 > __Para cada integrante da equipe, informar__:
-> 1. Nome completo.
-> 2. Curso.
-> 3. Instituição (no caso, Pontifícia Universidade Católica de Minas Gerais, Campus Barreiro).
-> 4. Cidade.
-> 5. Sigla do Estado.
-> 6. País.
-> 4. E-mail.
+> 1. Fernando Rafael da Silva Alves
+> 2. Sistemas de Informação
+> 3. Pontifícia Universidade Católica de Minas Gerais, Campus Barreiro
+> 4. Belo Horizonte
+> 5. MG.
+> 6. Brasil
+> 4. fernandorsa123@gmail.com
 > 5. [ORCID](https://orcid.org/).
 > 
 > __OBS__: os dados acima devem ser informados em ordem alfabética do nome dos integrantes da equipe.
 
-> __Exemplo__:
-```
-Ana de Souza Silva 
-Discente do curso tecnólogo em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais
+Fernando Rafael da Silva Alves
+Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
 Belo Horizonte, MG, Brasil 
-anadesouzasilva@e-mail.com 
+fernandorsa123@gmail.com
 https://orcid.org/9009-9009-9009-9009
 ```
 > __No final, informar os dados do(s) professor(es)__. 
 
-> __Exemplo__:
-```
 Wesley Dias Maciel 
 Docente da Pontifícia Universidade Católica de Minas Gerais 
 Belo Horizonte, MG, Brasil 
