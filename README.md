@@ -33,6 +33,17 @@ Belo Horizonte, MG, Brasil
 teusalves@live.com
 https://orcid.org/9009-9009-9009-9009
 
+Pedro Henrique Ferreira Costa
+Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
+Belo Horizonte, MG, Brasil 
+phcostx@hotmail.com
+https://orcid.org/9009-9009-9009-9009
+
+Roberto Cardoso Alberto
+Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
+Belo Horizonte, MG, Brasil 
+robertoc150@gmail.com
+https://orcid.org/9009-9009-9009-9009
 
 ```
 > __No final, informar os dados do(s) professor(es)__. 
