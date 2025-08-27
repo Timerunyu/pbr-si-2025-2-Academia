@@ -15,11 +15,25 @@
 > 
 > __OBS__: os dados acima devem ser informados em ordem alfabética do nome dos integrantes da equipe.
 
+Arthur Antunes Mendes de Barcelos
+Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
+Belo Horizonte, MG, Brasil 
+tocubarcelos@mail.com
+https://orcid.org/9009-9009-9009-9009
+
 Fernando Rafael da Silva Alves
 Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
 Belo Horizonte, MG, Brasil 
 fernandorsa123@gmail.com
 https://orcid.org/9009-9009-9009-9009
+
+Matheus Filipe Alves
+Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
+Belo Horizonte, MG, Brasil 
+teusalves@live.com
+https://orcid.org/9009-9009-9009-9009
+
+
 ```
 > __No final, informar os dados do(s) professor(es)__. 
 
