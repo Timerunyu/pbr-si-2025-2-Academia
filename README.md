@@ -21,6 +21,12 @@ Belo Horizonte, MG, Brasil
 tocubarcelos@mail.com
 https://orcid.org/9009-9009-9009-9009
 
+Brian Nicolas Dias Costa
+Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
+Belo Horizonte, MG, Brasil 
+briannicolasdc@gmail.com
+https://orcid.org/9009-9009-9009-9009
+
 Fernando Rafael da Silva Alves
 Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
 Belo Horizonte, MG, Brasil 
