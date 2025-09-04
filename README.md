@@ -18,7 +18,7 @@
 Arthur Antunes Mendes de Barcelos
 Discente do curso Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais
 Belo Horizonte, MG, Brasil 
-tocubarcelos@mail.com
+tucobarcelos@gmail.com
 https://orcid.org/9009-9009-9009-9009
 
 Brian Nicolas Dias Costa
