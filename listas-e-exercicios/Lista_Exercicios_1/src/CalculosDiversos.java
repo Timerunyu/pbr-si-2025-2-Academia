@@ -6,7 +6,7 @@ public class CalculosDiversos {
         Scanner scanner = new Scanner(System.in);
 
         // 1) Média Aritmética de 3 notas
-        System.out.println("1) Média2 Aritmética de 3 notas:");
+        System.out.println("1) Média Aritmética de 3 notas:");
         System.out.print("Digite a primeira nota: ");
         double nota1 = scanner.nextDouble();
         System.out.print("Digite a segunda nota: ");
